@@ -1,0 +1,1 @@
+document.write("<Javascript Code!</h2><p><ul><li>Name: Bakare olasubomi</li><li>Height : 5'9</li><li>country: Nigeria</li></ul></p>");
